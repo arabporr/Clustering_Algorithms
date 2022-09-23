@@ -7,7 +7,7 @@ First off, I loaded the data in Colab. Then, I normalized the datasets and plott
 
 ![First_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/First_Dataset.png)
 
-![Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Second_Dataset.png),
+![Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Second_Dataset.png)
 
 ![Third_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Third_Dataset.png)
 
@@ -16,7 +16,7 @@ After that, I found the elbow point for the number of clusters:
 
 ![Elbow_Curve_First_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Elbow_Curve_First_Dataset.png)
 
-![Elbow_Curve_Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Elbow_Curve_Second_Dataset.png),
+![Elbow_Curve_Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Elbow_Curve_Second_Dataset.png)
 
 ![Elbow_Curve_Third_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Elbow_Curve_Third_Dataset.png)
 
@@ -27,21 +27,21 @@ Then, I tried different algorithms and ended up with the following results.
 ### First Dataset:
 ![K-means_First_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/K-means_First_Dataset.png)
 
-![Fuzzy_C-means_First_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Fuzzy_C-means_First_Dataset.png),
+![Fuzzy_C-means_First_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Fuzzy_C-means_First_Dataset.png)
 
 ![DBScan_First_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/DBScan_First_Dataset.png)
 
 ### Second Dataset:
 ![K-means_Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/K-means_Second_Dataset.png)
 
-![Fuzzy_C-means_Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Fuzzy_C-means_Second_Dataset.png),
+![Fuzzy_C-means_Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Fuzzy_C-means_Second_Dataset.png)
 
 ![DBScan_Second_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/DBScan_Second_Dataset.png)
 
 ### Third Dataset:
 ![K-means_Third_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/K-means_Third_Dataset.png)
 
-![Fuzzy_C-means_Third_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Fuzzy_C-means_Third_Dataset.png),
+![Fuzzy_C-means_Third_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/Fuzzy_C-means_Third_Dataset.png)
 
 ![DBScan_Third_Dataset](https://github.com/arabporr/Clustering_Algorithms/blob/7b8299f117755e379ef929c69a9722f3f58509df/Plots_Images/DBScan_Third_Dataset.png)
 
